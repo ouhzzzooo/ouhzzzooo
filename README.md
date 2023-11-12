@@ -2,7 +2,6 @@
 <h3 align="left">A passionate backend developer </h3>
 <p align="left">Welcome to my small coding world </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ouhzzzooo&label=Profile%20views&color=0e75b6&style=flat" alt="ouhzzzooo" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
