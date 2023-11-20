@@ -30,3 +30,15 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouhzzzooo&show_icons=true&locale=en&layout=compact" alt="ouhzzzooo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouhzzzooo&" alt="ouhzzzooo" /></p>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ouhzzzooo&show_icons=true&theme=city_lights"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ouhzzzooo&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ouhzzzooo&show_icons=true" />
+</picture>
