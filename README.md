@@ -27,13 +27,13 @@
 <a href="https://discord.gg/ouhzzzooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ouhzzzooo" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouhzzzooo&show_icons=true&locale=en&layout=compact" alt="ouhzzzooo" /></p>
+<a href="https://github.com/ouhzzzooo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouhzzzooo&langs_count=10&theme=catppuccin_latte&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouhzzzooo&" alt="ouhzzzooo" /></p>
+<a href="http://www.github.com/ouhzzzooo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ouhzzzooo&theme=catppuccin_latte&hide_border=true" /></a>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ouhzzzooo&show_icons=true&theme=city_lights"
+    srcset="https://github-readme-stats.vercel.app/api?username=ouhzzzooo&show_icons=true&theme=catppuccin_latte"
     media="(prefers-color-scheme: dark)"
   />
   <source
